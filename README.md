@@ -4,7 +4,7 @@
 
 Built as a **Streamlit** application with AI-powered image understanding, summarization, and quiz generation.
 
-![App Interface](https://note-quiz-app-mini.streamlit.app/)  
+Live link (https://note-quiz-app-mini.streamlit.app/)
 
 ## ✨ Features
 
